@@ -5174,10 +5174,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"effector@npm:22.5.0":
-  version: 22.5.0
-  resolution: "effector@npm:22.5.0"
-  checksum: d89d6005e38a49826023298849a8838ae7c753627ba729fec0c21ddef4ba90ec682b0401ea7b7c51ee00eb6ea00c2c0bf21c162a1eb840bc775c10797f6ed534
+"effector@npm:22.7.0":
+  version: 22.7.0
+  resolution: "effector@npm:22.7.0"
+  checksum: 9a3f9e5079ca5aab04c0709b8a608dc5752b8d88f9386d22bcc47cc0abbaf5842428035ce22af4626a5c4ae117e2a59533a7fde6154ea123df5021f75e4b2f4a
   languageName: node
   linkType: hard
 
@@ -10541,7 +10541,7 @@ __metadata:
     "@types/react": 18.0.27
     "@types/react-dom": 18.0.11
     dayjs: 1.11.7
-    effector: 22.5.0
+    effector: 22.7.0
     effector-react: 22.4.0
     immer: 9.0.19
     lodash: 4.17.21
