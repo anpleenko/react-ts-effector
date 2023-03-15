@@ -27,7 +27,7 @@
     "effector-react": "22.4.0",
     "immer": "9.0.19",
     "lodash": "4.17.21",
-    "patronum": "1.14.2",
+    "patronum": "1.16.0",
     "ramda": "0.28.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
