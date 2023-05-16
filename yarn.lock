@@ -5162,15 +5162,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"effector-react@npm:22.4.0":
-  version: 22.4.0
-  resolution: "effector-react@npm:22.4.0"
+"effector-react@npm:22.5.2":
+  version: 22.5.2
+  resolution: "effector-react@npm:22.5.2"
   dependencies:
     use-sync-external-store: ^1.0.0
   peerDependencies:
     effector: ^22.0.2
     react: ">=16.8.0 <19.0.0"
-  checksum: b0f6ff5e037ecefaeb6e0aa2c336693d5aca41f20baedd493045aa5717f5e0bb65994d5a4e0ea3a3712e4387a424b3cb579fdb5fe8b5456a4d3bbcbbe550f50a
+  checksum: 437f4bb2e97504fa1097d6da9aae862841460dae9e9b7faabf234b7fadc4283d0b930a72903257a447ae51c325b503adfa4b6d98546e766c5ca6666eec899ca2
   languageName: node
   linkType: hard
 
@@ -10542,7 +10542,7 @@ __metadata:
     "@types/react-dom": 18.0.11
     dayjs: 1.11.7
     effector: 22.5.0
-    effector-react: 22.4.0
+    effector-react: 22.5.2
     immer: 9.0.19
     lodash: 4.17.21
     patronum: 1.14.2
